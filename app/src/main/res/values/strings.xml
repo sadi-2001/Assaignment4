@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sadir Project</string>
+
+    <string-array name="tech_array">
+        <item>Harvard University</item>
+        <item>Stanford University</item>
+        <item>Massachusetts Institute of Technology (MIT)</item>
+        <item>University of Cambridge</item>
+        <item>University of Oxford</item>
+        <item>California Institute of Technology (Caltech)</item>
+        <item>University of Chicago</item>
+        <item>Columbia University</item>
+        <item>Princeton University</item>
+        <item>Yale University</item>
+    </string-array>
+
+    <string-array name="tech_array_subtitle">
+    <item>Harvard University, established in 1636, is one of the oldest and most prestigious universities in the world, known for its strong programs in law, business, and medicine.</item>
+    <item>Stanford University, located in California, is renowned for its research in technology and entrepreneurship, often linked to Silicon Valley innovations.</item>
+    <item>Massachusetts Institute of Technology (MIT) is a world leader in science, engineering, and technology education, with a strong focus on research and innovation.</item>
+    <item>University of Cambridge, founded in 1209, is one of the oldest universities in the world, known for its strong emphasis on research and academic excellence.</item>
+    <item>University of Oxford is the oldest university in the English-speaking world, with a rich history in humanities, sciences, and a distinctive tutorial system.</item>
+    <item>California Institute of Technology (Caltech) is a top institution specializing in science and engineering, with a high student-to-faculty ratio for personalized education.</item>
+    <item>University of Chicago is recognized for its rigorous academic programs, particularly in economics, political science, and social sciences.</item>
+    <item>Columbia University, located in New York City, is one of the Ivy League schools, famous for its strong programs in journalism, business, and international relations.</item>
+    <item>Princeton University is known for its focus on undergraduate education and research, with strengths in fields like humanities, social sciences, and engineering.</item><item>Yale University is one of the oldest Ivy League institutions, renowned for its law school, drama, and music programs, with a str</item>
+    </string-array>
+</resources>
+
